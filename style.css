@@ -14,8 +14,8 @@ body {
 }
 
 header {
-    background-color: #07b33e;
-    color: white;
+    background-color: #128612dd;
+    color: #fff;
     padding: 20px 40px;
     text-align: center;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
@@ -80,7 +80,7 @@ nav a:hover {
 
 .hero {
   position: relative;
-  background-image: url('./solar\ panel\ 5.avif');
+  background-image: url('https://img.freepik.com/free-photo/futuristic-solar-power-station-generates-clean-electricity-generated-by-ai_188544-20184.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
